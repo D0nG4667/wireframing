@@ -62,16 +62,32 @@ Outlines the **interactive elements and features** that define user behavior.
 
 ---
 
-## 🛠 Tools for Wireframing
+## 🛠 Popular Wireframing Tools
 
-Popular tools include:
+Several tools are widely used to create wireframes efficiently, enabling collaboration and iterative design.
 
-- **Figma**
-- **Adobe XD**
-- **Sketch**
-- **Balsamiq**
+- **Figma** (Recommended)  
+  Figma is a **browser-based design tool** that allows teams to **create, share, and collaborate on wireframes in real-time**.  
+  **Features & Benefits:**  
+  - Cloud-based, accessible on any device with a browser.  
+  - Supports **real-time collaboration** and commenting for feedback.  
+  - Provides templates and UI kits for **quick wireframe creation**.  
+  - Facilitates **easy iteration** and version control without losing previous designs.  
+  - Integrates with prototyping and developer handoff tools.  
 
-Among these, **Figma** is widely preferred for its **collaborative**, **browser-based**, and **easy-to-share** environment.
+- **Adobe XD**  
+  Offers vector-based wireframing, interactive prototypes, and collaboration features.  
+
+- **Sketch**  
+  Mac-only tool with robust UI design and wireframing capabilities.  
+
+- **Balsamiq**  
+  Focuses on **low-fidelity wireframes**, making it ideal for quick sketches and early-stage layout planning.  
+
+✅ **Why Figma is Useful for Wireframing:**  
+
+Figma combines **simplicity, collaboration, and flexibility**, making it ideal for teams to **visualize layouts, gather feedback, and iterate** before moving to high-fidelity designs or development.
+**Figma** is widely preferred for its **collaborative**, **browser-based**, and **easy-to-share** environment.
 
 ---
 
