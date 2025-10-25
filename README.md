@@ -72,3 +72,69 @@ Popular tools include:
 - **Balsamiq**
 
 Among these, **Figma** is widely preferred for its **collaborative**, **browser-based**, and **easy-to-share** environment.
+
+---
+
+## 🧭 Types of Wireframes
+
+Wireframes are essential visual guides that outline the structure and layout of a digital product (such as a website or mobile app). They help teams visualize user flow, placement of elements, and functionality before moving into the detailed design or development stage.
+
+---
+
+### 🧩 **1. Low-Fidelity Wireframes**
+
+**📝 Description:**
+Low-fidelity (Lo-Fi) wireframes are simple sketches or rough layouts that capture the basic structure and flow of an interface. They prioritize **content placement and user flow** over color, typography, or branding.
+
+**🎯 Purpose:**
+Used in the **early stages** of the design process to explore ideas quickly, validate user journeys, and gather early feedback.
+
+**🔍 Key Characteristics:**
+
+- Simplified boxes, placeholders, and text labels
+- No color or detailed typography
+- Focused on layout, hierarchy, and navigation
+- Created using tools like Balsamiq, Figma (wireframe mode), or even pen and paper
+
+**🕒 When to Use:**
+During brainstorming, ideation, and initial UX discussions before committing to design details.
+
+---
+
+### 🎨 **2. High-Fidelity Wireframes**
+
+**📝 Description:**
+High-fidelity (Hi-Fi) wireframes are detailed, polished representations that **closely resemble the final product**. They include realistic visuals, brand colors, images, and often simulate user interactions.
+
+**🎯 Purpose:**
+Used in the **later stages** of the design process to test usability, finalize layouts, and prepare for developer handoff.
+
+**🔍 Key Characteristics:**
+
+- Realistic content, images, icons, and branding
+- Defined colors, fonts, and spacing
+- Interactive elements (buttons, forms, dropdowns)
+- Pixel-perfect alignment and visual hierarchy
+
+**🕒 When to Use:**
+During usability testing, client presentations, and final design approvals before development.
+
+---
+
+## 🖼️ Wireframe Type in This Example
+
+![Reservation HiFi Wireframe](reservation.png)
+
+The image provided — **“Review Order Details” screen** — represents a **High-Fidelity Wireframe**.
+
+**💡 Reasoning:**
+
+- Uses **real product imagery** (Villa Arrecife Beach House).
+- Contains **branded colors, styled fonts**, and **interactive UI elements** (buttons, form fields, dropdowns).
+- Displays **realistic layout and hierarchy**, suitable for presentation or development handoff.
+- Reflects the **final user experience** design rather than a conceptual sketch.
+
+---
+
+✅ **Conclusion:**
+This is a **High-Fidelity Wireframe**, typically used in the **final design phase** before implementation — ideal for developer collaboration, usability testing, and stakeholder review.
